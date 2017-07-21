@@ -167,8 +167,8 @@ return [
             'analytics_piwik_siteid' => 'Piwik\'s site id',
         ],
         'localization' => [
-            'site-timezone'        => 'Site timezone',
-            'site-locale'          => 'Site language',
+            'site-timezone'        => 'Site zaman dilimi',
+            'site-locale'          => 'Site dili',
             'date-format'          => 'Date format',
             'incident-date-format' => 'Incident timestamp format',
         ],
@@ -206,7 +206,7 @@ return [
         'gravatar'       => 'Change your profile picture at Gravatar.',
         'user_level'     => 'User Level',
         'levels'         => [
-            'admin' => 'Admin',
+            'admin' => 'Yönetici',
             'user'  => 'Kullanıcı',
         ],
         '2fa' => [
